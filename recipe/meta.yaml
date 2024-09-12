@@ -1,4 +1,4 @@
-{% set version = "0.4.0" %}
+{% set version = "0.5.0" %}
 
 package:
   name: ipfsspec
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/i/ipfsspec/ipfsspec-{{ version }}.tar.gz
-  sha256: f4e40ceac31fdda5e3757f10b4778a5f124c22bffb54eba990e630c8746a8af8
+  sha256: 398591cabad2335f64071bd57aebf287fef54bbabe74e82ab0577b252d66f05d
 
 build:
   number: 0
